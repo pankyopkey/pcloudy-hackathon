@@ -35,6 +35,9 @@
 * Device Location - IND-West - https://ind-west.pcloudy.com/appiumcloud/wd/hub
 * Device Location - Singapore - https://sg.pcloudy.com/appiumcloud/wd/hub 
 
+## Visual and OCR DOCUMENT LINK
+https://www.pcloudy.com/mobile-application-testing-documentation/visual-testing-pb-cmd.php
+
 
  
 
